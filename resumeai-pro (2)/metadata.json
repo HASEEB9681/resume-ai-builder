@@ -1,0 +1,5 @@
+{
+  "name": "ResumeAI Pro",
+  "description": "An intelligent, ATS-friendly resume builder powered by Gemini. Features real-time job matching, cover letter generation, and premium styling.",
+  "requestFramePermissions": []
+}
